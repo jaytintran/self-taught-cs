@@ -14,3 +14,5 @@
 - For example accessing an **array** is super fast, it has a fix length, but it will get costly when our size of input grows.
 - Then what we have to do is to use another data structure like **linked list** insted of array, this type of data structure can grows or shrinks very quickly.
 - We have to learn about Big O Notation first before speaking about other data structures.
+
+![image](https://user-images.githubusercontent.com/29084790/191365513-3cea9a28-b092-4827-88b8-41fd2d19628f.png)
