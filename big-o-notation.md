@@ -16,3 +16,5 @@
 - We have to learn about Big O Notation first before speaking about other data structures.
 
 ![image](https://user-images.githubusercontent.com/29084790/191365513-3cea9a28-b092-4827-88b8-41fd2d19628f.png)
+
+> **Space Complexity**
